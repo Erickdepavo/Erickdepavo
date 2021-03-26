@@ -4,7 +4,7 @@ Lover of all things Tech. Mexican 🇲🇽 🌮 🫔
 
 I code in Swift, Python, TypeScript, JavaScript, and others.
 
-Passionate iOS Developer and React fan.
+Passionate Apple Developer and React fan.
 
 [![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickdepavo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
